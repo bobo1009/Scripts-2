@@ -3,10 +3,10 @@ const $ = new Env('youthshare');
 let md5 = require('md5-node');
 let nowTime;
 let wxck;
-let articles = ["https://focus.youth.cn/article/s?signature=qbBkjWwN2L3nP684eJOGrAfdQWJ2cBxkZgm7gRyAEYpXDmeo0O&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36516756&time=1614523802&app_version=2.0.2&sign=b11725fb6b9d102245d99440b2e2a436",
-"https://focus.youth.cn/article/s?signature=VOZvBzYN5rkDxgX7YwgP8Yi8zvGLiVdY30Y1L3yAP6WMnmlGK9&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36512046&time=1614523849&app_version=2.0.2&sign=8c8796e8a79a9508163aa00a8d7aca4a",
-"https://focus.youth.cn/article/s?signature=89NvAVZQolPrzM0a3VrpJ6C6Ydg3HLZX56K7gXDkJEqdw5xObL&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36518375&time=1614523866&app_version=2.0.2&sign=04547e9725c478378375fa0db034b89c",
-"https://focus.youth.cn/article/s?signature=DX6wEBvPbxy02WLarv3oRpCRPoZWTNpMJxzagRQY9OZjA5eJpl&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36515415&time=1614523882&app_version=2.0.2&sign=9b56a9570fa6ff5798565fa60c7a4800"]
+let articles = ["https://focus.youth.cn/article/s?signature=XOdKbE3Jw6GoWpN4v8bmGZFL3rmAHMyv2oga8B9yl0Z2eRAmzr&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36516661&time=1614527266&app_version=2.0.2&sign=75224f018885d850d684996662bbaa83",
+"https://focus.youth.cn/article/s?signature=QqvZWbEKpA2yrNR1MngWQbcpngVltLKdpPz49VGjJl8gXB5keP&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36512185&time=1614527288&app_version=2.0.2&sign=a6e02b2b8b8dde31dff2d89b284c8557",
+"https://focus.youth.cn/article/s?signature=DX6wEBvPbxy02WLarv3OnjFRPoZWTNpM6A8agRQY9OZjA5eJpl&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36494505&time=1614527316&app_version=2.0.2&sign=83e0a088d33985b0168ceb91c0648f6a",
+"https://focus.youth.cn/article/s?signature=ML5JYgKNrewq9QO4gM2po6tY8qAPIenodEWayGDn2Z0PAvkopB&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36509004&time=1614527334&app_version=2.0.2&sign=adbbd46fdc5dcf4487ff213caecd53ab"]
 
 let encodearticles;
 
