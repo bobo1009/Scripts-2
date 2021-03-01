@@ -6,7 +6,8 @@ let wxck;
 let articles = ["https://focus.youth.cn/article/s?signature=XOdKbE3Jw6GoWpN4v8bmGZFL3rmAHMyv2oga8B9yl0Z2eRAmzr&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36516661&time=1614527266&app_version=2.0.2&sign=75224f018885d850d684996662bbaa83",
 "https://focus.youth.cn/article/s?signature=QqvZWbEKpA2yrNR1MngWQbcpngVltLKdpPz49VGjJl8gXB5keP&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36512185&time=1614527288&app_version=2.0.2&sign=a6e02b2b8b8dde31dff2d89b284c8557",
 "https://focus.youth.cn/article/s?signature=DX6wEBvPbxy02WLarv3OnjFRPoZWTNpM6A8agRQY9OZjA5eJpl&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36494505&time=1614527316&app_version=2.0.2&sign=83e0a088d33985b0168ceb91c0648f6a",
-"https://focus.youth.cn/article/s?signature=ML5JYgKNrewq9QO4gM2po6tY8qAPIenodEWayGDn2Z0PAvkopB&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36509004&time=1614527334&app_version=2.0.2&sign=adbbd46fdc5dcf4487ff213caecd53ab"]
+"https://focus.youth.cn/article/s?signature=ML5JYgKNrewq9QO4gM2po6tY8qAPIenodEWayGDn2Z0PAvkopB&uid=52008122&phone_code=c101ffb3769838d579eae1fc6c001b59&scid=36509004&time=1614527334&app_version=2.0.2&sign=adbbd46fdc5dcf4487ff213caecd53ab",
+"https://focus.youth.cn/article/s?signature=Vwo03AWDZyGJbgP7NEgKw9SY8255UvNmAPV4nMY6dljLxe9Opk&uid=52044542&phone_code=120f4e3e9fca7906a6f49e6fd85e8124&scid=36522994&time=1614562116&app_version=2.0.2&sign=f1f7b0050078e3a71f821f961e6ffbb7",]
 
 let encodearticles;
 
